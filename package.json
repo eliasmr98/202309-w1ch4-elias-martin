@@ -1,5 +1,5 @@
 {
-  "name": "202309-w1ch4-elias-martin",
+  "name": "web_sass",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.3"
+  }
 }
