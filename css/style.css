@@ -98,4 +98,13 @@ p.view-all-p:hover {
   color: rgb(243, 180, 102);
 }
 
+.index-text a {
+  font-size: 4rem;
+  font-family: "Nunito", sans-serif;
+}
+
+.mobile-text {
+  font-family: "Nunito", sans-serif;
+}
+
 /*# sourceMappingURL=style.css.map */
