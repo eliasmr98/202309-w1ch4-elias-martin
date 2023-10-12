@@ -72,6 +72,10 @@ p.buy-now-border {
   padding: 12px;
 }
 
+p.buy-now-border:hover {
+  background-color: rgb(243, 180, 102);
+}
+
 .view-all-butt p {
   padding: 1rem;
   border: 2px solid $font-color;
@@ -79,8 +83,20 @@ p.buy-now-border {
   color: $font-color;
 }
 
+p.view-all-p:hover {
+  background-color: rgb(243, 180, 102);
+}
+
 .img-container {
   display: flex;
   justify-content: space-evenly;
   margin-block-start: 2rem;
+}
+
+.img {
+  border-radius: 20px;
+}
+
+.hover-li:hover {
+  color: rgb(243, 180, 102);
 }
